@@ -1,3 +1,5 @@
+[![Python application](https://github.com/vasgg/coindesk_parser/actions/workflows/python-app.yml/badge.svg)](https://github.com/vasgg/coindesk_parser/actions/workflows/python-app.yml)
+
 **Парсер новостей о биткоине с сайта CoinDesk.com**
 
 Начало работы:
